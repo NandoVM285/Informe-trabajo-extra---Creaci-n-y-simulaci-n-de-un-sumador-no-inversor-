@@ -4,17 +4,15 @@
 
 - Objetivo general:
 
-
+Construir  y simular un sumador no inversor
 
 - Objetivos específicos:
 
-  -
+  - Explicar el funcionamiento de un amplificador operacional sumador no inversor 
   
+  - Fabricar un circuito que sume dos voltajes de entrada 
   
-  -
-  
-  
-2. MARCO TEÓRICO
+  2. MARCO TEÓRICO
 
 ![Untitled](https://user-images.githubusercontent.com/93950169/156969893-3f6387de-ce41-4ced-a394-4742b56dcf29.jpg)
 
@@ -132,7 +130,12 @@ Se procede a la comprobación del voltaje de salida
 
 8. CONCLUSIONES 
 
-
+- El amplificador operacional tiene gran cantidad de posibilidades debido a que tiene grancantidad de configuraciones una de ellas es la configuración como sumador no inversor, en esta configuración el circuito proporciona a la salida el voltaje de las entradas sumadas. 
 
 10. BIBLIOGRAFÍA
 
+- Youtube.com. 2022. AMPLIFICADORES OPERACIONALES - MODO INVERSOR Y NO INVERSOR SIMULACIÓN EN PROTEUS. [online] Available at: <https://www.youtube.com/watch?v=HMLUjYIFZvI> [Accessed 7 March 2022].
+
+- Gómez, E., 2022. Amplificador sumador de tensión con operacional - Rincón Ingenieril. [online] Rincón Ingenieril. Available at: <https://www.rinconingenieril.es/amplificador-sumador-de-tension/> [Accessed 7 March 2022].
+
+- electronica, W., 2022. Amplificador sumador no inversor. [online] Wilaebaelectronica.blogspot.com. Available at: <https://wilaebaelectronica.blogspot.com/2017/01/amplificador-sumador-no-inversor.html> [Accessed 7 March 2022].
