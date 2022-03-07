@@ -102,19 +102,19 @@ Construir  y simular un sumador no inversor
 
   ![lagrida_latex_editor (24)](https://user-images.githubusercontent.com/93950169/156976881-9cb399d9-73cb-4006-a951-4f4f9f44dfd0.png)
 
-  Con los datos obtenidos se realiza la simulación en el programa multisim, se utilizó dos voltajes de entrada de 1.2 voltios cada uno, y un voltaje de 9 voltios en la entrada 7 (potencia positiva) y 9 voltios en la en la entrada 4 (potencia negativa) 
+  Con los datos obtenidos se realiza la simulación en el programa multisim, se utilizó dos voltajes de entrada de 1.6 voltios cada uno, y un voltaje de 9 voltios en la entrada 7 (potencia positiva) y 9 voltios en la en la entrada 4 (potencia negativa) 
 
-  ![image](https://user-images.githubusercontent.com/93950169/156977783-bf37ba67-b04f-4224-96ef-657747388ca2.png)
+  ![image](https://user-images.githubusercontent.com/93950169/157093480-3c48c1b0-5442-4bfb-8e6b-d460951fb44e.png)
 
   Se utiliza el multimetro para medir el voltaje de salida
 
-  ![image](https://user-images.githubusercontent.com/93950169/156977925-9768ab1c-069e-4344-a0e3-5644bc632ef0.png)
+  ![image](https://user-images.githubusercontent.com/93950169/157093614-ef7e02d5-1193-4e9c-b2cf-95d5e380b4a1.png)
 
   Se realiza la simulación
 
-  ![image](https://user-images.githubusercontent.com/93950169/156978089-79278b71-a2af-4e92-8a4b-8845f152e1f0.png)
+  ![image](https://user-images.githubusercontent.com/93950169/157093684-8db8790e-fe4a-4488-846c-b709a6c4f07d.png)
 
-  Se obtiene un voltaje de salida de 2.402 V
+  Se obtiene un voltaje de salida de 3.202 V
 
   Se procede a la comprobación del voltaje de salida
 
