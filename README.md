@@ -63,10 +63,9 @@ Realizar un circuito que obtenga: ![lagrida_latex_editor (7)](https://user-image
 
 ![lagrida_latex_editor (9)](https://user-images.githubusercontent.com/93950169/156974209-6e99b331-caab-4f72-b4f1-ca3a9dbc0977.png)
 
-![lagrida_latex_editor (10)](https://user-images.githubusercontent.com/93950169/156975504-975c8b66-e681-48d8-b6cf-2ed536b69af8.png)
+![lagrida_latex_editor (13)](https://user-images.githubusercontent.com/93950169/156975654-c3f07e5c-effe-460c-a551-8ebf174acd6d.png)
 
-
-Se propone que: ![lagrida_latex_editor (11)](https://user-images.githubusercontent.com/93950169/156974778-762b6949-1923-4639-9997-0f9d7e9fbd41.png) y ![Uploading lagrida_latex_editor (12).png…]()
+Se propone que: ![lagrida_latex_editor (11)](https://user-images.githubusercontent.com/93950169/156974778-762b6949-1923-4639-9997-0f9d7e9fbd41.png) y ![lagrida_latex_editor (14)](https://user-images.githubusercontent.com/93950169/156975752-60046830-8c36-46b7-9858-0816aa9df0f5.png)
 
 
 
