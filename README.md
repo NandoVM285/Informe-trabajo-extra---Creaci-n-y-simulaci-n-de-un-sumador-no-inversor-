@@ -67,15 +67,41 @@ Realizar un circuito que obtenga: ![lagrida_latex_editor (7)](https://user-image
 
 Se propone que: ![lagrida_latex_editor (11)](https://user-images.githubusercontent.com/93950169/156974778-762b6949-1923-4639-9997-0f9d7e9fbd41.png) y ![lagrida_latex_editor (14)](https://user-images.githubusercontent.com/93950169/156975752-60046830-8c36-46b7-9858-0816aa9df0f5.png)
 
+Ganancia 1:
 
+![lagrida_latex_editor (15)](https://user-images.githubusercontent.com/93950169/156975984-6fa50e21-d2ea-4288-a416-18a655aba659.png)
 
+![lagrida_latex_editor (16)](https://user-images.githubusercontent.com/93950169/156976091-0529cab5-eeb6-4e14-adcf-6e725977c94e.png)
 
+Ganancia 2:
 
+![lagrida_latex_editor (17)](https://user-images.githubusercontent.com/93950169/156976207-8eb59d91-001a-4dc4-b10b-3758ab410792.png)
 
+![lagrida_latex_editor (18)](https://user-images.githubusercontent.com/93950169/156976271-b665f79d-c3b0-43c2-9cff-2c99ed1c23ed.png)
 
+Se igualan las ganancias:
 
+![lagrida_latex_editor (19)](https://user-images.githubusercontent.com/93950169/156976433-161fa39f-23be-4434-a31c-fe954ca37a49.png)
 
+Se despeja R2:
 
+![lagrida_latex_editor (20)](https://user-images.githubusercontent.com/93950169/156976655-116b256b-7531-46a9-ae5a-32715b616676.png)
+
+Si se dice que:
+
+![lagrida_latex_editor (25)](https://user-images.githubusercontent.com/93950169/156976968-5fc8d735-a0b9-48eb-86be-ebc9a4183c7e.png)
+
+Entonces ![lagrida_latex_editor (26)](https://user-images.githubusercontent.com/93950169/156977036-d6ecdafa-20a4-4760-ae95-e7ce94d7390a.png)
+
+Por lo tanto: 
+
+![lagrida_latex_editor (21)](https://user-images.githubusercontent.com/93950169/156976745-3afd0ee5-fbfe-4711-8c23-1a6879833d01.png)
+
+![lagrida_latex_editor (22)](https://user-images.githubusercontent.com/93950169/156976779-3f88b910-4c07-4fb9-a5e0-f4c1c5232f27.png)
+
+![lagrida_latex_editor (23)](https://user-images.githubusercontent.com/93950169/156976844-577def94-9b60-4450-85a1-0c7f3e4c213d.png)
+
+![lagrida_latex_editor (24)](https://user-images.githubusercontent.com/93950169/156976881-9cb399d9-73cb-4006-a951-4f4f9f44dfd0.png)
 
 
 6. VIDEO
