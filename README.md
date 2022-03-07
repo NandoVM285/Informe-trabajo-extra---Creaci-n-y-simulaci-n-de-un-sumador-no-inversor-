@@ -120,14 +120,24 @@ Construir  y simular un sumador no inversor
 
   ![lagrida_latex_editor (27)](https://user-images.githubusercontent.com/93950169/156978441-fec67585-fc34-4a2b-b2c5-5d421b723769.png)
 
-  ![lagrida_latex_editor (28)](https://user-images.githubusercontent.com/93950169/156978826-06c7c54f-6f7d-467e-a391-b2d66be18149.png)
+  ![lagrida_latex_editor (40)](https://user-images.githubusercontent.com/93950169/157095160-007f087c-a857-4b92-8220-bd716e456ba3.png)
 
-  ![lagrida_latex_editor (29)](https://user-images.githubusercontent.com/93950169/156978914-29c492e0-8016-44b3-91e3-43fa93580fbf.png)
-
-
+  ![lagrida_latex_editor (41)](https://user-images.githubusercontent.com/93950169/157095272-7cbfcd20-5beb-40ab-a91a-879b3b534fb3.png)
+  
+  Se procede a armar el circuito
+  
+  ![WhatsApp Image 2022-03-07 at 13 31 52](https://user-images.githubusercontent.com/93950169/157096370-8da4bc3d-eb8a-4b6b-8dad-18f26be2c1b6.jpeg)
+  
+  ![WhatsApp Image 2022-03-07 at 13 31 53](https://user-images.githubusercontent.com/93950169/157096419-84dc183f-1d9e-45aa-936b-030f332a53a9.jpeg)
+  
+  ![WhatsApp Image 2022-03-07 at 13 34 45](https://user-images.githubusercontent.com/93950169/157096483-28e7568f-fa68-4d2a-be6a-f72a46780907.jpeg)
+  
+  ![WhatsApp Image 2022-03-07 at 13 34 45 (2)](https://user-images.githubusercontent.com/93950169/157096705-1608e9af-acfd-4420-8b54-d65b3b3039b4.jpeg)
+  
+  
 5. VIDEO
 
-
+https://www.youtube.com/watch?v=NS4ZCw_R0MI
 
 6. CONCLUSIONES 
 
