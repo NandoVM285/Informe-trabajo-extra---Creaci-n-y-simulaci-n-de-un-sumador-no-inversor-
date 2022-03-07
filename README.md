@@ -103,6 +103,28 @@ Por lo tanto:
 
 ![lagrida_latex_editor (24)](https://user-images.githubusercontent.com/93950169/156976881-9cb399d9-73cb-4006-a951-4f4f9f44dfd0.png)
 
+Con los datos obtenidos se realiza la simulación en el programa multisim, se utilizó dos voltajes de entrada de 1.2 voltios cada uno, y un voltaje de 9 voltios en la entrada 7 (potencia positiva) y 9 voltios en la en la entrada 4 (potencia negativa) 
+
+![image](https://user-images.githubusercontent.com/93950169/156977783-bf37ba67-b04f-4224-96ef-657747388ca2.png)
+
+Se utiliza el multimetro para medir el voltaje de salida
+
+![image](https://user-images.githubusercontent.com/93950169/156977925-9768ab1c-069e-4344-a0e3-5644bc632ef0.png)
+
+Se realiza la simulación
+
+![image](https://user-images.githubusercontent.com/93950169/156978089-79278b71-a2af-4e92-8a4b-8845f152e1f0.png)
+
+Se obtiene un voltaje de salida de 2.402 V
+
+Se procede a la comprobación del voltaje de salida
+
+![lagrida_latex_editor (27)](https://user-images.githubusercontent.com/93950169/156978441-fec67585-fc34-4a2b-b2c5-5d421b723769.png)
+
+![lagrida_latex_editor (28)](https://user-images.githubusercontent.com/93950169/156978826-06c7c54f-6f7d-467e-a391-b2d66be18149.png)
+
+![lagrida_latex_editor (29)](https://user-images.githubusercontent.com/93950169/156978914-29c492e0-8016-44b3-91e3-43fa93580fbf.png)
+
 
 6. VIDEO
 
