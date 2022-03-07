@@ -19,7 +19,7 @@ Construir  y simular un sumador no inversor
 
 3. MATERIALES
 
-- Dos pilas doble A
+- Dos pilas doble A 1.6 V
 - Dos baterias de 9V
 - Dos resistencias de 2000 ohmios
 - Dos resistencias de 1000 ohmios
