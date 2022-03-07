@@ -131,8 +131,10 @@ Construir  y simular un sumador no inversor
 
 6. CONCLUSIONES 
 
-- El amplificador operacional tiene gran cantidad de posibilidades debido a que tiene grancantidad de configuraciones una de ellas es la configuración como sumador no inversor, en esta configuración el circuito proporciona a la salida el voltaje de las entradas sumadas. 
+- El amplificador operacional tiene gran cantidad de posibilidades debido a que dispone de diferentes tipos de configuraciones,una de ellas es la configuración como sumador no inversor, en este modo el circuito proporciona a la salida el voltaje de las entradas sumadas. 
 
+- El cáulo teorico coincide con el practico en el momento de la simulación y la fabricaciòn del circuito, se lodró crear un circuito que suma sus dos voltajes de entrada, este metodo llega a ser util al momento de tener entradas variables de voltaje.
+-
 7. BIBLIOGRAFÍA
 
 - Youtube.com. 2022. AMPLIFICADORES OPERACIONALES - MODO INVERSOR Y NO INVERSOR SIMULACIÓN EN PROTEUS. [online] Available at: <https://www.youtube.com/watch?v=HMLUjYIFZvI> [Accessed 7 March 2022].
